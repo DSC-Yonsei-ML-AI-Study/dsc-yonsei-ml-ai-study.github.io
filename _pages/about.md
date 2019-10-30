@@ -13,7 +13,7 @@ author_profile : true
 - [Kaggle 타이타닉 문제](https://www.kaggle.com/c/titanic/overview/description)
 - [구글 머신러닝 단기 과정](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Kaggle Learn](https://www.kaggle.com/learn/overview?utm_medium=partner&utm_source=google.com&utm_campaign=google+ai+hub)
-- DSC Yonsei Page - ML/AI Study
+- [DSC Yonsei Page - ML/AI Study](https://sites.google.com/yonsei.ac.kr/dsc-yonsei/mlai-study)
 
 ## Curriculum 
 
