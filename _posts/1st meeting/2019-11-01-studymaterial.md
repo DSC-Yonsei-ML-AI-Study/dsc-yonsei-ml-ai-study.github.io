@@ -21,7 +21,7 @@ colab으로 실습 가능하게 되어 있습니다
 ## TFKR 박찬성님이 공유해준 TensorFlow 2.0 + Keras 특강 자료
 <https://colab.research.google.com/drive/1p4RhSj1FEuscyZP81ocn8IeGD_2r46fS?fbclid=IwAR17Zi-fQ8fOCjG85TixcA-vB2hLuz_r1L3lVuPfrKUbft9dK8GpdS0hCbo>
 
-## GDE ML 송호연님이 올려주신 Suverless ML API 구축하는 법
+## GDE ML 송호연님이 올려주신 Serverless ML API 구축하는 법
 클라우드 상에서 ML 모델을 어떻게 배포하는지 설명되어 있습니다.
 
 <https://brunch.co.kr/@chris-song/91>
