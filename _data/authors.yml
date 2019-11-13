@@ -2,7 +2,7 @@
 
 Jiyeon Lee:
   name        : "Jiyeon Lee"
-  bio         : "알고리즘을 공부합시다~~~"
+  bio         : "머신러닝을 공부합시다~~"
   avatar      : "/assets/images/jiyeonlee.png"
   location : "Seoul, Republic of Korea"
   links:
@@ -24,9 +24,9 @@ Jiyeon Lee:
 
 Mingu Lee:
   name        : "Mingu Lee"
-  bio         : "밍키"
-  avatar      : "/assets/images/DSC.png"
-  location : ""
+  bio         : ""
+  avatar      : "/assets/images/mingulee.jpeg"
+  location : #""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -39,7 +39,7 @@ Mingu Lee:
       url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: ""
+      url: "https://github.com/minguleee"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: ""
@@ -61,7 +61,7 @@ Hokwon Lee:
       url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: ""
+      url: "https://github.com/HoKwonLee"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: ""
@@ -69,7 +69,7 @@ Hokwon Lee:
 Yebon Kim:
   name        : "Yebon Kim"
   bio         : ""
-  avatar      : "/assets/images/DSC.png"
+  avatar      : "/assets/images/yebonkim.jpeg"
   location : ""
   links:
     - label: "Email"
@@ -83,7 +83,7 @@ Yebon Kim:
       url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: ""
+      url: "https://github.com/bon0336?tab=repositories"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: ""
@@ -105,7 +105,7 @@ Seho Lee:
       url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: ""
+      url: "https://github.com/leeseho"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: ""
@@ -127,7 +127,7 @@ Junyong Lee:
       url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: ""
+      url: "https://github.com/dlwnsdyd94"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: ""
@@ -149,7 +149,7 @@ Junki Yoon:
       url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: ""
+      url: "https://github.com/na86421"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: ""
